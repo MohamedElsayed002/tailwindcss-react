@@ -1,6 +1,6 @@
 # React + Vite
 
-Link of the project [link]('https://tailwindcss-react-eight.vercel.app/')
+Link of the project [link](https://tailwindcss-react-eight.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
